@@ -1,2 +1,2 @@
-# Practicum-projects
-Projects that I completed while studying at Yandex Practicum.
+# practicum-projects
+Here are the projects that were completed during training at Yandex Practicum.
